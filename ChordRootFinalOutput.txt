@@ -1,0 +1,36 @@
+Using device cuda
+There are 60480 items in the training dataset
+There are 25920 items in the testing dataset
+Epoch 1 | Train Loss 2.3692 | Train Accuracy 0.2788 | Test Loss 2.2806 | Test Accuracy 0.4120 | Elapsed Time 284.1575s
+Epoch 2 | Train Loss 2.2224 | Train Accuracy 0.4802 | Test Loss 2.1774 | Test Accuracy 0.5354 | Elapsed Time 293.9682s
+Epoch 3 | Train Loss 2.1492 | Train Accuracy 0.5672 | Test Loss 2.1228 | Test Accuracy 0.5928 | Elapsed Time 279.3002s
+Epoch 4 | Train Loss 2.1112 | Train Accuracy 0.6025 | Test Loss 2.0953 | Test Accuracy 0.6091 | Elapsed Time 287.4901s
+Epoch 5 | Train Loss 2.0710 | Train Accuracy 0.6424 | Test Loss 2.0533 | Test Accuracy 0.6566 | Elapsed Time 282.3010s
+Epoch 6 | Train Loss 2.0453 | Train Accuracy 0.6657 | Test Loss 2.0336 | Test Accuracy 0.6724 | Elapsed Time 277.0747s
+Epoch 7 | Train Loss 2.0174 | Train Accuracy 0.6950 | Test Loss 1.9970 | Test Accuracy 0.7171 | Elapsed Time 257.9146s
+Epoch 8 | Train Loss 1.9928 | Train Accuracy 0.7148 | Test Loss 1.9684 | Test Accuracy 0.7365 | Elapsed Time 263.9785s
+Epoch 9 | Train Loss 1.9671 | Train Accuracy 0.7372 | Test Loss 1.9539 | Test Accuracy 0.7519 | Elapsed Time 263.2818s
+Epoch 10 | Train Loss 1.9618 | Train Accuracy 0.7391 | Test Loss 1.9547 | Test Accuracy 0.7477 | Elapsed Time 266.5759s
+Epoch 11 | Train Loss 1.9537 | Train Accuracy 0.7458 | Test Loss 1.9386 | Test Accuracy 0.7579 | Elapsed Time 255.5009s
+Epoch 12 | Train Loss 1.9430 | Train Accuracy 0.7534 | Test Loss 1.9399 | Test Accuracy 0.7530 | Elapsed Time 256.5752s
+Epoch 13 | Train Loss 1.9355 | Train Accuracy 0.7564 | Test Loss 1.9300 | Test Accuracy 0.7628 | Elapsed Time 258.2219s
+Epoch 14 | Train Loss 1.9319 | Train Accuracy 0.7629 | Test Loss 1.9229 | Test Accuracy 0.7723 | Elapsed Time 258.3215s
+Epoch 15 | Train Loss 1.9246 | Train Accuracy 0.7704 | Test Loss 1.9183 | Test Accuracy 0.7762 | Elapsed Time 263.8876s
+Epoch 16 | Train Loss 1.9246 | Train Accuracy 0.7692 | Test Loss 1.9246 | Test Accuracy 0.7662 | Elapsed Time 255.0106s
+Epoch 17 | Train Loss 1.9147 | Train Accuracy 0.7808 | Test Loss 1.9042 | Test Accuracy 0.7899 | Elapsed Time 255.8290s
+Epoch 18 | Train Loss 1.9141 | Train Accuracy 0.7780 | Test Loss 1.9138 | Test Accuracy 0.7872 | Elapsed Time 259.2068s
+Epoch 19 | Train Loss 1.9066 | Train Accuracy 0.7864 | Test Loss 1.8970 | Test Accuracy 0.7949 | Elapsed Time 257.0015s
+Epoch 20 | Train Loss 1.8988 | Train Accuracy 0.7953 | Test Loss 1.9321 | Test Accuracy 0.7669 | Elapsed Time 274.0257s
+Epoch 21 | Train Loss 1.9047 | Train Accuracy 0.7875 | Test Loss 1.8918 | Test Accuracy 0.8034 | Elapsed Time 259.5581s
+Epoch 22 | Train Loss 1.8957 | Train Accuracy 0.7942 | Test Loss 1.8884 | Test Accuracy 0.7981 | Elapsed Time 267.0319s
+Epoch 23 | Train Loss 1.8908 | Train Accuracy 0.7961 | Test Loss 1.8886 | Test Accuracy 0.7857 | Elapsed Time 260.4857s
+Epoch 24 | Train Loss 1.8930 | Train Accuracy 0.7915 | Test Loss 1.8829 | Test Accuracy 0.7981 | Elapsed Time 256.8693s
+Epoch 25 | Train Loss 1.8874 | Train Accuracy 0.7917 | Test Loss 1.8773 | Test Accuracy 0.8021 | Elapsed Time 252.6623s
+Epoch 26 | Train Loss 1.8819 | Train Accuracy 0.7953 | Test Loss 1.8737 | Test Accuracy 0.8032 | Elapsed Time 259.7577s
+Epoch 27 | Train Loss 1.8828 | Train Accuracy 0.7938 | Test Loss 1.8852 | Test Accuracy 0.7947 | Elapsed Time 256.0294s
+Epoch 28 | Train Loss 1.8802 | Train Accuracy 0.7948 | Test Loss 1.8754 | Test Accuracy 0.8032 | Elapsed Time 263.5720s
+Epoch 29 | Train Loss 1.8825 | Train Accuracy 0.7940 | Test Loss 1.8793 | Test Accuracy 0.8044 | Elapsed Time 267.4768s
+Epoch 30 | Train Loss 1.8688 | Train Accuracy 0.8080 | Test Loss 1.8643 | Test Accuracy 0.8110 | Elapsed Time 272.1989s
+Total Elapsed Time 7965.2715s
+Model trained and stored as ChordRootCNN.pth
+
