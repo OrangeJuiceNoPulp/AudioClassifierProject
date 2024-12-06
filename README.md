@@ -1,5 +1,5 @@
-# ParallelAudioClassifierProject
- Final Project For CSI-4650 Parallel and Distributed Computing
+# Audio Classifier Project
+ Group 9's Final Project for CSI-4650 Parallel and Distributed Computing, Fall 2024
 
 
 # Chord Classification
